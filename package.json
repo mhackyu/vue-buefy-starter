@@ -1,13 +1,37 @@
 {
   "name": "vue-bulma-starter",
   "version": "0.1.0",
-  "private": true,
+  "description": "A boilerplate repository containing everything you need to start developing Vue.js single page application with buefy component library.",
+  "main": "app.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhackyu/vue-buefy-starter.git"
+  },
+  "keywords": [
+    "vue",
+    "bulma",
+    "buefy",
+    "axios",
+    "vue-router",
+    "vuex",
+    "boilerplate",
+    "starter",
+    "tempalate"
+  ],
+  "author": "mhackyu <mark.christian.paderes@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mhackyu/vue-buefy-starter/issues"
+  },
+  "homepage": "https://github.com/mhackyu/vue-buefy-starter#readme",
   "dependencies": {
+    "axios": "^0.20.0",
+    "buefy": "^0.9.3",
     "core-js": "^3.6.5",
     "register-service-worker": "^1.7.1",
     "vue": "^2.6.11",
