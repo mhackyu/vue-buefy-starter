@@ -14,9 +14,9 @@
 </p>
 
 <h1 align="center">Vue.js and Bulma Starter 📦</h1>
-<p align="center">A boilerplate repository containing everything you need to start developing Vue.js single page application with buefy component library.</p>
+<p style="text-align: center">A boilerplate repository containing everything you need to start developing Vue.js single page application with buefy component library.</p>
 
-[Demo Link](http://www.vue-buefy-starter.mhackyu.dev)
+<a href="http://www.vue-buefy-starter.mhackyu.dev"><p align="center">Demo Link</p></a>
 
 # Table of Contents
 
